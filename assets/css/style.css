@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+section {
+    border-top: 1px solid #d5d5d5;
+    text-align: center;
+    max-width: 1024px;
+    margin: auto;
+    background-color: #f4f4f4fa;
+    padding: 3rem 2rem;
+
+}
+
+.link-um,
+.link-dois {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #09d893;
+    padding: 10px 30px;
+    border-radius: 18px;
+    color: #ffff;
+    font-weight: 800;
+}
+
+img {
+    max-width: 100%;
+
+}
+
+p {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 1.25rem;
+    font-size: 2rem;
+}
+
+h2,
+h3 {
+    margin: 1.25rem 0 20px 0;
+    font-size: 1.50rem;
+}
+
+.texto-autor {
+    margin-top: 1.25rem;
+}
